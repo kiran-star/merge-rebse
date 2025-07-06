@@ -1,0 +1,7 @@
+This is stash demo
+Line 1
+Line 2
+Making changes to the file
+Line 3
+Line 4
+
